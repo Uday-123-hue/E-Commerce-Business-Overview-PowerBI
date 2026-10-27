@@ -5,7 +5,7 @@ Hi! Welcome to my Power BI project.
 I built this interactive dashboard to analyze the sales performance, customer behavior, and overall profitability of an e-commerce business. The main goal of this project is to transform raw business data into clear, actionable insights.
 
 **Dashboard Overview:**
-![Main Dashboard]= https://github.com/Uday-123-hue/E-Commerce-Business-Overview-PowerBI/blob/main/ALL.png?raw=true
+![Main Dashboard](https://github.com/Uday-123-hue/E-Commerce-Business-Overview-PowerBI/blob/main/ALL.png?raw=true)
 
 
 ### Key Insights & Features
