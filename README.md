@@ -5,7 +5,7 @@ Hi! Welcome to my Power BI project.
 I built this interactive dashboard to analyze the sales performance, customer behavior, and overall profitability of an e-commerce business. The main goal of this project is to transform raw business data into clear, actionable insights.
 
 **Dashboard Overview:**
-
+f8d9117d7c573c4ab1c0491d93dc0b3c2e22dd85
 
 ### Key Insights & Features
 * **Monthly Sales Trends:** A timeline analysis from Jan to Dec to identify peak sales seasons.
