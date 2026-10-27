@@ -24,6 +24,8 @@ I built this interactive dashboard to analyze the sales performance, customer be
   ![Margins](https://github.com/Uday-123-hue/E-Commerce-Business-Overview-PowerBI/blob/main/Margins.png?raw=true)
 * **Quarterly Growth:** Business performance and momentum tracking across Q1 to Q4.
 
+  ![Growth](https://github.com/Uday-123-hue/E-Commerce-Business-Overview-PowerBI/blob/main/Growth.png?raw=true)
+
 ### Tools & Techniques Used
 * **Power BI Desktop:** For building visuals and the interactive navigation menu.
 * **Power Query:** For data cleaning and transformation.
