@@ -11,6 +11,7 @@ I built this interactive dashboard to analyze the sales performance, customer be
 
 ### Key Insights & Features
 * **Monthly Sales Trends:** A timeline analysis from Jan to Dec to identify peak sales seasons.
+  ![Timeline](https://github.com/Uday-123-hue/E-Commerce-Business-Overview-PowerBI/blob/main/Timeline.png?raw=true)
 * **Top Performing Products:** Ranked bar charts highlighting the products that drive the most revenue.
 * **Customer Segmentation:** A detailed breakdown of the customer base to understand audience demographics and market reach.
 * **Profitability Analysis:** Scatter plot evaluation of profit margins to identify the most valuable customers.
