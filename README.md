@@ -17,6 +17,8 @@ I built this interactive dashboard to analyze the sales performance, customer be
 
   ![Ranking](https://github.com/Uday-123-hue/E-Commerce-Business-Overview-PowerBI/blob/main/Ranking.png?raw=true)
 * **Customer Segmentation:** A detailed breakdown of the customer base to understand audience demographics and market reach.
+
+  ![Segment](https://github.com/Uday-123-hue/E-Commerce-Business-Overview-PowerBI/blob/main/Segment.png?raw=true)
 * **Profitability Analysis:** Scatter plot evaluation of profit margins to identify the most valuable customers.
 * **Quarterly Growth:** Business performance and momentum tracking across Q1 to Q4.
 
